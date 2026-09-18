@@ -1,0 +1,11 @@
+{
+  "name": "HR System",
+  "short_name": "HR System",
+  "description": "Human resource management system for employees, HR, and management",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1",
+  "orientation": "portrait-primary",
+  "categories": ["business", "productivity"]
+}
