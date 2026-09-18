@@ -2,6 +2,8 @@
 
 DevelopmentHR is a full-stack Human Resources management application built as a reusable HR system and portfolio project.
 
+DevelopmentHR is under active development, with ongoing improvements to payroll, reporting, employee management, and scheduling features.
+
 The system combines leave management, employee administration, payroll workflows, Malaysian statutory contribution calculations, shift scheduling, approval workflows, document generation, and role-based access.
 
 ## Features
